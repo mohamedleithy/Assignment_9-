@@ -1,3 +1,3 @@
-Ass_9.exe: main.cpp abdullah.cpp
-	g++ -I ../headers main.cpp abdullah.cpp -o Ass_9.exe
+Ass_9.exe: main.cpp Abdullah.cpp
+	g++ -I ../headers main.cpp Abdullah.cpp -o Ass_9.exe
 
