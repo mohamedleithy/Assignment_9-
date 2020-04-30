@@ -1,6 +1,4 @@
 include<iostream>
 using namespace std;
 
-void AbdullahR9()
-{
-}
+void AbdullahR9();
